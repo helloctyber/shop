@@ -7,7 +7,7 @@ export default function Quicklinks() {
     <div className="quicklinksContainer">
       <Quicklink label="Book flight" color="red"/>
       <Quicklink label="Pay Bills" />
-      <Quicklink/>
+      <Quicklink label="Fashion"/>
       <Quicklink />
       <Quicklink />
       <Quicklink color="yellow"/>
